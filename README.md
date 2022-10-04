@@ -1,11 +1,10 @@
 # Nermin Abla
 
-![image](https://user-images.githubusercontent.com/79927591/183791617-1c1ab55f-9e77-4a2d-8dad-f1fed21eb0bc.png)
+![image](![image](https://user-images.githubusercontent.com/69998085/193877544-301c2f9b-41a6-4355-9b79-610b9c58a44d.png))
 
-The Project: Equmoney is a budget management application. It helps the user to edit the budget as quickly as possible.
-It is designed to help achieve a goal or save money.
+The Project: Nermin Abla is a fortune telling application. It is for entertainment purposes.
 
-For the project backend click [here](https://github.com/muhammedgunaydin/Equmoney_backend.git)
+For the project backend click [here](https://github.com/ertgrlaltnts/Nermin-Abla.git)
 
 ## Requirements
 - [ReactNative](https://reactnative.dev/)
@@ -16,8 +15,8 @@ For the project backend click [here](https://github.com/muhammedgunaydin/Equmone
 
 - Clone the repository and move to the project directory:
   ```bash
-    git clone https://github.com/muhammedgunaydin/Equmoney_frontend.git
-    cd Equmoney_frontend
+    git clone https://github.com/ertgrlaltnts/Nermin-Abla-Front-End.git
+    cd reactnative
   ```
   
 - To load the npm packages
