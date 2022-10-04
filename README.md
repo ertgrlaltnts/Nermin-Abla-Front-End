@@ -1,6 +1,6 @@
 # Nermin Abla
 
-![image](![image](https://user-images.githubusercontent.com/69998085/193877544-301c2f9b-41a6-4355-9b79-610b9c58a44d.png)
+![image](https://user-images.githubusercontent.com/79927591/183791617-1c1ab55f-9e77-4a2d-8dad-f1fed21eb0bc.png)
 
 The Project: Nermin Abla is a fortune telling application. It is for entertainment purposes.
 
